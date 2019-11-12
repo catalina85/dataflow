@@ -1,0 +1,10 @@
+# .gitignore
+.DS_Store
+.idea/
+walk.sh
+addIgnore.py
+envs.py
+path.sh
+envs.sh
+
+
